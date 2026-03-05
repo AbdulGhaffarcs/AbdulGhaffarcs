@@ -1,4 +1,4 @@
-# AbdulGhaffar07
+# AbdulGhaffarcs
 Personal GitHub profile showcasing my projects and skills
 # Hi 👋, I'm Abdul Ghaffar
 
