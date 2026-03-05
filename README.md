@@ -1,82 +1,66 @@
-# AbdulGhaffarcs
-Personal GitHub profile showcasing my projects and skills
-# Hi 👋, I'm Abdul Ghaffar
+# 👋 Hi, I'm Abdul Ghaffar
 
-💻 Computer Science Student  
-🚀 Software Developer
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Frontend+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 💡 Interested in Web Development and AI Tools
-- 🌱 Currently learning **React, TypeScript, and System Design**
-- 🛠️ Building projects to improve real-world development skills
-- 🎯 Goal: Become a professional Software Engineer
+* 🎓 Computer Science Student
+* 💻 Software Developer
+* ⚛️ React , JavaScript & Python Enthusiast
+* 🌱 Currently learning **TypeScript & System Design**
+* 🎯 Goal: Become a professional **AI Engineer**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Languages
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Python
-- 
-
-### Frameworks & Libraries
-- React
-- Node.js
-- Firebase
-- Supabase
-- 
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Figma
-
----
-
-## 📌 Featured Projects
-
-### 🔹 SEO App
-Tool designed to analyze SEO metrics and improve website visibility.
-
-### 🔹 AI UnderWriter
-AI-based tool for generating optimized content.
-
-### 🔹 Connect Chat
-Real-time chat application built with modern web technologies.
-
-### 🔹 React Applications
-Collection of small React-based projects and experiments.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nodejs,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulGhaffar07&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGhaffar07&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulGhaffarcs&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulGhaffar07&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AbdulGhaffarcs&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGhaffarcs&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AbdulGhaffarcs&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/abdulghaffarcs  
-- Email: abghaffar360@gmail.com
+* 💼 LinkedIn: https://linkedin.com/in/abdulghaffarcs
+* 📧 Email: [abghaffar360@gmail.com](mailto:abghaffar360@gmail.com)
 
 ---
 
-⭐ From [AbdulGhaffarcs](https://github.com/AbdulGhaffarcs)
+⭐ From **AbdulGhaffarcs**
