@@ -3,8 +3,7 @@ Personal GitHub profile showcasing my projects and skills
 # Hi 👋, I'm Abdul Ghaffar
 
 💻 Computer Science Student  
-🚀 Frontend Developer | React Enthusiast  
-📍 Pakistan  
+🚀 Software Developer
 
 ---
 
@@ -25,10 +24,15 @@ Personal GitHub profile showcasing my projects and skills
 - TypeScript
 - HTML5
 - CSS3
+- Python
+- 
 
 ### Frameworks & Libraries
 - React
 - Node.js
+- Firebase
+- Supabase
+- 
 
 ### Tools
 - Git
@@ -70,10 +74,9 @@ Collection of small React-based projects and experiments.
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourportfolio.com
-- Email: your@email.com
+- LinkedIn: https://linkedin.com/in/abdulghaffarcs  
+- Email: abghaffar360@gmail.com
 
 ---
 
-⭐ From [AbdulGhaffar07](https://github.com/AbdulGhaffar07)
+⭐ From [AbdulGhaffarcs](https://github.com/AbdulGhaffarcs)
