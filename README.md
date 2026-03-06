@@ -39,12 +39,11 @@
 </p>
 
 ---
-## 📈 Most Used Languages
+## 📊 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGhaffarcs&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGhaffarcs&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
-
 ---
 
 ## 👀 Profile Visitors
