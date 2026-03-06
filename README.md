@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=AI+Engineer+%7C+Cybersecurity+Specialist;Training+models+by+day%2C+breaking+systems+by+night.;LLMs+%7C+Pen+Testing+%7C+Red+Team+Research;root%40ghaffar%3A~%24+sudo+./build_the_future.sh" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=AI+Engineer+%7C+Cybersecurity+Specialist;Currently+Pursuing+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Training+models+by+day%2C+breaking+systems+by+night.;LLMs+%7C+Pen+Testing+%7C+Red+Team+Research;root%40ghaffar%3A~%24+sudo+./build_the_future.sh" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulghaffarcs-00ff41?style=flat-square&logo=linkedin&logoColor=00ff41&labelColor=0d1117)](https://linkedin.com/in/abdulghaffarcs)
 [![GitHub](https://img.shields.io/badge/GitHub-AbdulGhaffarcs-00ff41?style=flat-square&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/AbdulGhaffarcs)
@@ -30,6 +30,7 @@ name      :  Abdul Ghaffar
 role      :  AI Engineer + Cybersecurity Specialist
 education :  Computer Science Student
 domains   :  Machine Learning · Offensive Security · LLMs
+pursuing  :  Cybersecurity [ IN PROGRESS ▓▓▓▓▓░░░░░ ]
 goal      :  AI Red Team Engineer
 status    :  [ AVAILABLE ]
 ```
@@ -40,7 +41,7 @@ status    :  [ AVAILABLE ]
 
 I operate at the intersection of **Artificial Intelligence** and **Offensive Security**.
 
-On the AI side — I build ML pipelines, fine-tune large language models, and engineer systems that learn and adapt. On the security side — I hunt vulnerabilities, think like an adversary, and stress-test systems before the bad actors do.
+On the AI side — I build ML pipelines, fine-tune large language models, and engineer systems that learn and adapt. On the security side — I'm **currently pursuing Cybersecurity** full-time, learning to hunt vulnerabilities, think like an adversary, and stress-test systems before the bad actors do.
 
 My endgame: become an **AI Red Team Engineer** — someone who can build intelligent systems *and* break them.
 
@@ -105,9 +106,9 @@ My endgame: become an **AI Red Team Engineer** — someone who can build intelli
 
 ```python
 skills_in_progress = {
-    "TypeScript"     : "▓▓▓▓▓▓░░░░  60%",
+    "Cybersecurity"  : "▓▓▓▓▓▓░░░░  60%  ← ACTIVE PURSUIT",
+    "Pen Testing"    : "▓▓▓▓▓░░░░░  50%  ← ACTIVE PURSUIT",
     "System Design"  : "▓▓▓▓░░░░░░  40%",
-    "Adv. Exploit"   : "▓▓▓▓▓░░░░░  50%",
     "AI Red Teaming" : "▓▓▓░░░░░░░  30%",
 }
 ```
