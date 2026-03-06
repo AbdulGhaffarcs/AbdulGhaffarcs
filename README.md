@@ -117,11 +117,7 @@ skills_in_progress = {
 
 ## `> github_stats --render`
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulGhaffarcs&show_icons=true&bg_color=0d1117&title_color=00ff41&text_color=c8ffd4&icon_color=00ffe1&border_color=238636&hide_border=false&count_private=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGhaffarcs&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c8ffd4&border_color=238636" />
-</div>
+
 <br/>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=AbdulGhaffarcs&theme=dark&background=0d1117&ring=00ff41&fire=00ffe1&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c8ffd4&sideNums=c8ffd4&dates=3a6644&border=238636" />
