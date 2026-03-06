@@ -24,13 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdulGhaffarcs&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -38,12 +32,6 @@
 <img src="https://streak-stats.demolab.com?user=AbdulGhaffarcs&theme=tokyonight" />
 </p>
 
----
-## 📊 Most Used Languages
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGhaffarcs&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
 ---
 
 ## 👀 Profile Visitors
