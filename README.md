@@ -27,9 +27,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulGhaffarcs&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulGhaffarcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
-
 ---
 
 ## 🔥 Contribution Streak
