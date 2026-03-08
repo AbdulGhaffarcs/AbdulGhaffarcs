@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=AI+Engineer+%7C+Cybersecurity+Specialist;Currently+Pursuing+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Training+models+by+day%2C+breaking+systems+by+night.;LLMs+%7C+Pen+Testing+%7C+Red+Team+Research;root%40ghaffar%3A~%24+sudo+./build_the_future.sh" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulghaffarcs-00ff41?style=flat-square&logo=linkedin&logoColor=00ff41&labelColor=0d1117)](https://linkedin.com/in/abdulghaffarcs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulghaffarcs-00ff41?style=flat-square&logo=linkedin&logoColor=003b2d&labelColor=0d1117)](https://linkedin.com/in/abdulghaffarcs)
 [![GitHub](https://img.shields.io/badge/GitHub-AbdulGhaffarcs-00ff41?style=flat-square&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/AbdulGhaffarcs)
 [![Email](https://img.shields.io/badge/Email-abghaffar360%40gmail.com-00ff41?style=flat-square&logo=gmail&logoColor=00ff41&labelColor=0d1117)](mailto:abghaffar360@gmail.com)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00ff41?style=flat-square&labelColor=0d1117)
