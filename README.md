@@ -6,10 +6,6 @@
     Passionate about building intelligent systems and securing them. 
     Currently pursuing Cybersecurity with a strong focus on the intersection of <strong>Artificial Intelligence</strong> and <strong>Offensive Security</strong>.
   </p>
-
-  [![GitHub](https://img.shields.io/badge/GitHub-AbdulGhaffarcs-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdulGhaffarcs)
-  [![Email](https://img.shields.io/badge/Email-abghaffar360%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abghaffar360@gmail.com)
-
 </div>
 
 ---
