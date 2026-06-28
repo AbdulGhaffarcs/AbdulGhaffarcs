@@ -1,61 +1,57 @@
-<div align="center">
-  <h1>Abdul Ghaffar</h1>
-  <h3>AI Engineer | Aspiring AI Red Team Engineer</h3>
+# Abdul Ghaffar
 
-  <p>
-    Passionate about building intelligent systems and securing them. 
-    Currently pursuing Cybersecurity with a strong focus on the intersection of <strong>Artificial Intelligence</strong> and <strong>Offensive Security</strong>.
-  </p>
-</div>
+**LLM Engineer** | Building intelligent systems with Large Language Models
+
+Passionate about developing production-grade LLM applications, optimizing model performance, and engineering robust AI solutions. I specialize in prompt engineering, RAG systems, fine-tuning, and LLM-powered products.
 
 ---
 
-### About Me
+## About Me
 
-I am a Computer Science student and AI Engineer with a growing specialization in **Cybersecurity**. My work lies at the intersection of machine learning and offensive security — building robust AI systems while actively learning how to identify and mitigate their vulnerabilities.
+I'm an LLM Engineer focused on designing and deploying scalable language model applications. My expertise spans the full lifecycle of LLM projects—from model selection and fine-tuning to production deployment and optimization.
 
-**Goal**: Become an **AI Red Team Engineer** — combining deep technical expertise in LLMs, MLOps, and adversarial machine learning with penetration testing and threat modeling.
-
----
-
-### 🛠️ Technical Skills
-
-#### Artificial Intelligence & Machine Learning
-- **Languages**: Python
-- **Frameworks**: PyTorch, TensorFlow, Hugging Face, LangChain, Scikit-learn
-- **Tools & Practices**: RAG Pipelines, LLM Fine-tuning, Vector Databases, Prompt Engineering, MLOps
-
-#### Cybersecurity & Offensive Security
-- **Tools**: Kali Linux, Metasploit, Nmap, Burp Suite, Wireshark
-- **Areas**: Penetration Testing, Vulnerability Assessment, OSINT, Linux Systems, Cryptography, CTFs
+**Focus Areas**: LLM Architecture, RAG Pipelines, Prompt Engineering, Model Fine-tuning, MLOps, and AI System Design.
 
 ---
 
-### 📌 Featured Projects
+## Technical Skills
+
+**Languages**: Python
+
+**LLM & AI Frameworks**: PyTorch, TensorFlow, Hugging Face, LangChain, Scikit-learn
+
+**Specialized Skills**:
+- RAG (Retrieval-Augmented Generation) Pipelines
+- Large Language Model Fine-tuning & Adaptation
+- Vector Databases & Embeddings
+- Prompt Engineering & Optimization
+- MLOps & Model Deployment
+- LLM Inference Optimization
+
+---
+
+## Featured Projects
 
 - **[Kryptos-Niarad](https://github.com/AbdulGhaffarcs/Kryptos-Niarad)**  
-  Offline AI study assistant powered by local LLMs with RAG capabilities for document interaction.
+  Offline AI study assistant with local LLM integration and RAG capabilities for intelligent document interaction.
 
 - **[rust_ruby_logger](https://github.com/AbdulGhaffarcs/rust_ruby_logger)**  
-  High-performance logging utility (Rust + Python bindings).
+  High-performance logging utility with Rust and Python bindings.
 
 - **[connectChat](https://github.com/AbdulGhaffarcs/connectChat)**  
   Real-time chat application built with JavaScript.
 
 ---
 
-### Currently Learning
-- Advanced Penetration Testing
-- AI Security & Adversarial Machine Learning
-- Cloud Security
-- System Design & Architecture
+## Currently Learning
+
+- Advanced LLM Optimization Techniques
+- Multimodal AI Systems
+- LLM-based Agents & Autonomous Systems
+- Production-Scale MLOps Practices
 
 ---
 
-<div align="center">
-  <strong>Open to collaboration</strong> on projects involving <strong>LLMs, AI Security, or Red Teaming</strong>.
-</div>
+**Open to collaboration** on projects involving LLMs, AI applications, and RAG systems.
 
----
-
-*Last updated: May 2026*
+*Last updated: June 2026*
