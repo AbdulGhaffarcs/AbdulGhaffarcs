@@ -32,7 +32,7 @@ Currently deepening my work in RAG architectures, agent evaluation, and applied 
 
 ### 📌 Featured Projects
 
-**[XVision — Chest Disease Detection](https://github.com/AbdulGhaffarcs/XVision)**
+**[XVision — Chest Disease Detection](https://github.com/shoaibahmedcs/xvision)**
 5-class chest X-ray classifier (normal, pneumonia, COVID-19, tuberculosis, effusion) using transfer learning on ResNet-50, full-stack deployment with FastAPI + React + Supabase. Final Year Project.
 
 **[Kryptos-Niarad](https://github.com/AbdulGhaffarcs/Kryptos-Niarad)**
