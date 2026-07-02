@@ -41,9 +41,6 @@ Offline RAG-powered AI study assistant — local LLMs with document-grounded ret
 **[Caprae AI-Readiness Scorer](https://github.com/AbdulGhaffarcs/caprae-ai-readiness-scorer)**
 Lead intelligence tool that scrapes company sites, analyzes tech stacks, and scores B2B SaaS companies on AI-readiness and acquisition fit. FastAPI + Next.js + Anthropic API.
 
-**[Negotiation Prediction API](https://github.com/AbdulGhaffarcs/negotiation-prediction-api)**
-Negotiation prediction service with a three-persona fan-out architecture over a local Ollama backend, using hybrid BM25 + Jaccard retrieval. Built for a Topcoder challenge.
-
 **[connectChat](https://github.com/AbdulGhaffarcs/connectChat)**
 End-to-end encrypted messaging app — client-side key exchange, ciphertext-only server storage, real-time message stream. React.js + Node.js + WebCrypto.
 
