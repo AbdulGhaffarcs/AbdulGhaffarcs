@@ -47,7 +47,6 @@ Negotiation prediction service with a three-persona fan-out architecture over a 
 **[connectChat](https://github.com/AbdulGhaffarcs/connectChat)**
 End-to-end encrypted messaging app — client-side key exchange, ciphertext-only server storage, real-time message stream. React.js + Node.js + WebCrypto.
 
-> Note: swap in real repo links for any project above that isn't public yet, or push one up before your next application round — an unlinked flagship project is worse than not mentioning it.
 
 ---
 
