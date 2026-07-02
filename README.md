@@ -1,170 +1,73 @@
-# Abdul Ghaffar
+<h1 align="center">Abdul Ghaffar</h1>
+<h3 align="center">AI/ML Engineer • Full-Stack Builder</h3>
 
-<div align="center">
-  <a href="https://github.com/AbdulGhaffarcs">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=LLM+Engineer;AI+Systems+Builder;Production-Grade+Solutions;RAG+%26+Fine-tuning+Specialist" alt="Typing Animation" />
-  </a>
-</div>
+<p align="center">
+Building production ML systems and agentic pipelines — from model training to deployment.
+</p>
 
----
-
-## 🎯 About Me
-
-I'm an **LLM Engineer** focused on designing and deploying scalable language model applications. My expertise spans the full lifecycle of LLM projects—from model selection and fine-tuning to production optimization.
-
-**Focus Areas**:
-- 🤖 LLM Architecture & Design
-- 📚 RAG Pipelines & Vector Databases
-- ⚡ Prompt Engineering & Optimization
-- 🔧 Model Fine-tuning & Adaptation
-- 🚀 MLOps & Production Deployment
+<p align="center">
+<a href="https://linkedin.com/in/abdulghaffarcs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abghaffar360@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 💻 Technical Skills
+### About Me
 
-<div align="center">
+Computer Science student at Sukkur IBA University (2023–2027), focused on AI/ML engineering and full-stack development. Paid contributor to **Harbor / SkillsBench**, authoring Docker-isolated benchmark tasks for LLM agent evaluation. Hands-on across the stack — PyTorch, TensorFlow, the Anthropic API, RAG pipelines, and TypeScript/Node backends.
 
-### Languages & Frameworks
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  Python                  ████████████████████░░░░ 95%          │
-│                                                                 │
-│  PyTorch                 ██████████████████░░░░░░ 85%          │
-│                                                                 │
-│  Hugging Face            ██████████████████░░░░░░ 85%          │
-│                                                                 │
-│  LangChain              ████████████████░░░░░░░░ 80%          │
-│                                                                 │
-│  TensorFlow             ██████████████░░░░░░░░░░ 75%          │
-│                                                                 │
-│  MLOps & Deployment     ██████████████░░░░░░░░░░ 75%          │
-│                                                                 │
-│  Vector Databases       ████████████░░░░░░░░░░░░ 70%          │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-### Core Competencies
-
-```
-┌─ SPECIALIZED SKILLS ─────────────────────────────────────────┐
-│                                                                │
-│  ✓ RAG (Retrieval-Augmented Generation) Pipelines             │
-│  ✓ Large Language Model Fine-tuning & Adaptation              │
-│  ✓ Vector Databases & Embeddings                              │
-│  ✓ Prompt Engineering & Optimization                          │
-│  ✓ MLOps & Model Deployment                                   │
-│  ✓ LLM Inference Optimization                                 │
-│  ✓ Production-Grade AI Systems                                │
-│  ✓ Model Evaluation & Benchmarking                            │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
-```
+Currently deepening my work in RAG architectures, agent evaluation, and applied computer vision.
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Technical Skills
 
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[Kryptos-Niarad](https://github.com/AbdulGhaffarcs/Kryptos-Niarad)** | Offline AI study assistant with local LLM integration and RAG capabilities for intelligent document interaction. | Python, LangChain, Vector DB |
-| **[rust_ruby_logger](https://github.com/AbdulGhaffarcs/rust_ruby_logger)** | High-performance logging utility with Rust and Python bindings for production systems. | Rust, Python, FFI |
-| **[connectChat](https://github.com/AbdulGhaffarcs/connectChat)** | Real-time chat application with modern architecture and scalable design. | JavaScript, WebSocket |
-
-</div>
+**AI / ML** — PyTorch, TensorFlow, transfer learning, computer vision, data pipelines
+**LLM Engineering** — Anthropic API, Ollama, RAG (BM25 + Jaccard hybrid retrieval), agent architectures, prompt engineering
+**Evaluation** — LLM agent benchmarks, Docker-isolated test environments, pytest harnesses, reproducible scoring
+**Languages** — Python, TypeScript / Node.js, SQL
+**Backend** — Supabase (Postgres, Auth, Edge Functions), Cloudflare Workers, REST APIs
 
 ---
 
-## 📈 Growth Trajectory
+### 📌 Featured Projects
 
-```
-LLM Expertise Development
-========================
+**[XVision — Chest Disease Detection](https://github.com/AbdulGhaffarcs/XVision)**
+5-class chest X-ray classifier (normal, pneumonia, COVID-19, tuberculosis, effusion) using transfer learning on ResNet-50, full-stack deployment with FastAPI + React + Supabase. Final Year Project.
 
-2024 ┤
-     │     ╱╲
-     │    ╱  ╲    ╱───
-     │   ╱    ╲  ╱
-     │  ╱      ╲╱
-2023 ┤╱
-     │
-     └─────────────────────────
-       Q1   Q2   Q3   Q4
+**[Kryptos-Niarad](https://github.com/AbdulGhaffarcs/Kryptos-Niarad)**
+Offline RAG-powered AI study assistant — local LLMs with document-grounded retrieval, built with LangChain, FAISS, and HuggingFace.
 
-Legend:
-─── RAG Systems & Pipelines
-╱╲╱ Fine-tuning & Adaptation
-    Production Optimization
-```
+**[Caprae AI-Readiness Scorer](https://github.com/AbdulGhaffarcs/caprae-ai-readiness-scorer)**
+Lead intelligence tool that scrapes company sites, analyzes tech stacks, and scores B2B SaaS companies on AI-readiness and acquisition fit. FastAPI + Next.js + Anthropic API.
+
+**[Negotiation Prediction API](https://github.com/AbdulGhaffarcs/negotiation-prediction-api)**
+Negotiation prediction service with a three-persona fan-out architecture over a local Ollama backend, using hybrid BM25 + Jaccard retrieval. Built for a Topcoder challenge.
+
+**[connectChat](https://github.com/AbdulGhaffarcs/connectChat)**
+End-to-end encrypted messaging app — client-side key exchange, ciphertext-only server storage, real-time message stream. React.js + Node.js + WebCrypto.
+
+> Note: swap in real repo links for any project above that isn't public yet, or push one up before your next application round — an unlinked flagship project is worse than not mentioning it.
 
 ---
 
-## 📚 Currently Learning
+### 💼 Experience
 
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────┐
-│            🎓 ADVANCED LEARNING ROADMAP                 │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  □ Advanced LLM Optimization Techniques                 │
-│  □ Multimodal AI Systems (Vision + Language)            │
-│  □ LLM-based Agents & Autonomous Systems                │
-│  □ Production-Scale MLOps Practices                      │
-│  □ Distributed Training & Inference                     │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
+**Harbor / SkillsBench** — Agent Benchmark Task Author *(Paid Contributor, 2025–Present)*
+Designing Docker-isolated evaluation tasks for frontier LLM coding agents spanning computer vision, computational geometry, and combinatorial reasoning, with deterministic pytest harnesses and tamper-resistant scoring.
 
 ---
 
-## 🤝 Let's Connect
+### 🎓 Education
 
-<div align="center">
-
-### Open to Collaboration
-
-I'm actively seeking opportunities to collaborate on projects involving:
-- 🤖 Large Language Models & LLM Applications
-- 🔍 RAG Systems & Advanced Retrieval
-- 🎯 AI-driven Solutions & Automation
-- 📊 Production ML Systems & MLOps
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-AbdulGhaffarcs-black?style=flat-square&logo=github)](https://github.com/AbdulGhaffarcs)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
-
-</div>
+**B.S. Computer Science** — Sukkur IBA University *(2023–2027)*
+Focus: AI/ML, Algorithms, Software Engineering
 
 ---
 
-<div align="center">
+### 📫 Reach Me
 
-### 📊 GitHub Statistics
+- Email: abghaffar360@gmail.com
+- LinkedIn: [linkedin.com/in/abdulghaffarcs](https://linkedin.com/in/abdulghaffarcs)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulGhaffarcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGhaffarcs&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*Last updated: June 2026* ⏰
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbdulGhaffarcs.AbdulGhaffarcs)](https://github.com/AbdulGhaffarcs)
-
-</div>
+<p align="center"><sub>Open to AI/ML Engineer, Software Engineer, and Data Science internships — remote or Karachi/Islamabad.</sub></p>
