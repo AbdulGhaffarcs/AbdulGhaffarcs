@@ -14,7 +14,7 @@ Building production ML systems and agentic pipelines — from model training to 
 
 ### About Me
 
-Computer Science student at Sukkur IBA University (2023–2027), focused on AI/ML engineering and full-stack development. Paid contributor to **Harbor / SkillsBench**, authoring Docker-isolated benchmark tasks for LLM agent evaluation. Hands-on across the stack — PyTorch, TensorFlow, the Anthropic API, RAG pipelines, and TypeScript/Node backends.
+Computer Science student at Sukkur IBA University (2023–2027), focused on AI/ML engineering and full-stack development.contributor to **Harbor / SkillsBench**, authoring Docker-isolated benchmark tasks for LLM agent evaluation. Hands-on across the stack — PyTorch, TensorFlow, the Anthropic API, RAG pipelines, and TypeScript/Node backends.
 
 Currently deepening my work in RAG architectures, agent evaluation, and applied computer vision.
 
