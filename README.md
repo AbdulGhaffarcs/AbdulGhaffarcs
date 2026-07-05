@@ -37,7 +37,7 @@ Currently deepening my work in:
 ### 📌 Featured Projects
 
 #### **NIARAD — AI Study Agent v3.0** ⭐ **Current Focus**
-🚀 **[Live Demo](https://xvision-one.vercel.app/)** *(Replace this with your Vercel/Render link)* | 💻 [Source Code](https://github.com/AbdulGhaffarcs/niarad_agent)
+🚀 [Live Demo](https://xvision-one.vercel.app/)  | 💻 [Source Code](https://github.com/AbdulGhaffarcs/niarad_agent)
 
 Full-stack AI study companion with intelligent agents and spaced-repetition learning.
 
@@ -53,7 +53,7 @@ Full-stack AI study companion with intelligent agents and spaced-repetition lear
 ---
 
 #### **XVision — Chest Disease Detection**
-🚀 **[Live Demo](#)** *(https://xvision-one.vercel.app/)* | 💻 [Source Code](https://github.com/shoaibahmedcs/xvision)
+🚀 [Live Demo](https://xvision-one.vercel.app/) | 💻 [Source Code](https://github.com/shoaibahmedcs/xvision)
 
 5-class chest X-ray classifier (normal, pneumonia, COVID-19, tuberculosis, effusion) using transfer learning on ResNet-50, full-stack deployment with FastAPI + React + Supabase. Achieved 92% accuracy across 5 disease classes.
 
@@ -62,7 +62,7 @@ Full-stack AI study companion with intelligent agents and spaced-repetition lear
 ---
 
 #### **Caprae — AI-Readiness Scorer**
-🚀 **[Live Demo](#)** *(https://ai-readiness-scorer.vercel.app/)* | 💻 [Source Code](https://github.com/AbdulGhaffarcs/caprae-ai-readiness-scorer)
+🚀 [Live Demo](https://ai-readiness-scorer.vercel.app/) | 💻 [Source Code](https://github.com/AbdulGhaffarcs/caprae-ai-readiness-scorer)
 
 Lead intelligence tool that scrapes company sites, analyzes tech stacks, and scores B2B SaaS companies on AI-readiness and acquisition fit. Used for market research and competitive analysis.
 
@@ -71,7 +71,7 @@ Lead intelligence tool that scrapes company sites, analyzes tech stacks, and sco
 ---
 
 #### **connectChat — End-to-End Encrypted Messaging**
-🚀 **[Live Demo](https://connectchat07.vercel.app/) ** | 💻 [Source Code](https://github.com/AbdulGhaffarcs/connectChat)
+🚀 [Live Demo](https://connectchat07.vercel.app/) | 💻 [Source Code](https://github.com/AbdulGhaffarcs/connectChat)
 
 Fully encrypted real-time messaging app with client-side key exchange and ciphertext-only server storage. Privacy-first architecture using WebCrypto API.
 
