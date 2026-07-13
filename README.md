@@ -37,7 +37,7 @@ Currently deepening my work in:
 ### 📌 Featured Projects
 
 #### **NIARAD — AI Study Agent v3.0** ⭐ **Current Focus**
-🚀 [Live Demo](https://xvision-one.vercel.app/)  | 💻 [Source Code](https://github.com/AbdulGhaffarcs/niarad_agent)
+🚀 [Live Demo](https://niarad-agent.vercel.app/)  | 💻 [Source Code](https://github.com/AbdulGhaffarcs/niarad_agent)
 
 Full-stack AI study companion with intelligent agents and spaced-repetition learning.
 
