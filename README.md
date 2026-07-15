@@ -41,4 +41,4 @@ Creating Docker-isolated evaluation tasks for frontier LLM agents.
 
 **Open to remote Full-Stack / AI Engineer roles** and interesting freelance projects.
 
-Always building • Based in Sukkur
+Always building •
