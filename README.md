@@ -1,44 +1,55 @@
-# Abdul Ghaffar
+#  I'm Abdul Ghaffar 👋
 
-**Full-Stack AI Engineer** | Building Intelligent AI Applications
+**AI/ML Engineer | Full-Stack Developer**
 
-Computer Science student at **Sukkur IBA University** passionate about **Agentic AI**, RAG systems, and production-ready full-stack solutions.
+Computer Science student focused on building intelligent systems, LLM applications, and production-grade software.
 
-[🌐 Portfolio](https://abdulghaffarcs.vercel.app/) • [LinkedIn](https://linkedin.com/in/abdulghaffarcs) • [Email](mailto:abghaffar360@gmail.com)
+---
+
+### 🚀 About Me
+
+- 🔭 Currently working on **AI agents**, **RAG systems**, and **computer vision** projects
+- 🌱 Learning advanced **system design**, **LLM optimization**, and **edge AI**
+- 💼 Open to remote internships and freelance opportunities
+- ⚡ Fun fact: I enjoy training models by day and exploring systems by night
 
 ---
 
 ### 🛠️ Tech Stack
 
-**AI/ML** — LangChain • LangGraph • RAG • Groq • Anthropic • PyTorch • FAISS  
-**Backend** — FastAPI • Node.js • Express  
-**Frontend** — Next.js 14 • TypeScript • React • Tailwind  
-**Infra** — Docker • Supabase • Vercel • Cloudflare
+**AI / Machine Learning**  
+`PyTorch` `TensorFlow` `Computer Vision` `RAG` `LLMs` `Ollama` `Prompt Engineering`
+
+**Backend & Full-Stack**  
+`Python` `TypeScript` `Node.js` `React` `Express` `Electron` `REST APIs`
+
+**Tools**  
+`Docker` `Git` `Supabase` `pytest`
 
 ---
 
-### 🚀 Featured Projects
+### 📌 Featured Projects
 
-**NIARAD — AI Study Agent v3.0** ⭐  
-Offline RAG-powered study companion with multi-tool agents and intelligent spaced repetition.  
-[Live Demo](https://niarad-agent.vercel.app/) • [Source Code](https://github.com/AbdulGhaffarcs/niarad_agent)
-
-**XVision — Chest X-ray Disease Classifier**  
-92% accuracy medical imaging model (5 classes) with full-stack deployment.  
-[Live Demo](https://xvision-one.vercel.app/) • [Source Code](https://github.com/shoaibahmedcs/xvision)
-
-**Caprae — AI Readiness Scorer**  
-Automated SaaS company intelligence & AI-fit analysis tool.  
-[Live Demo](https://ai-readiness-scorer.vercel.app/) • [Source Code](https://github.com/AbdulGhaffarcs/ai-readiness-scorer)
+- **[Gale_IDM](https://github.com/AbdulGhaffarcs/Gale_IDM)** — Open-source IDM-style download manager for Linux (Electron)
+- **[NIARAD](https://github.com/AbdulGhaffarcs/Kryptos-Niarad)** — Offline AI study assistant with RAG + multi-agent architecture
+- **Negotiation Prediction API** — Multi-persona LLM system with hybrid RAG
+- **Chest Disease Detection** — ResNet-50 based medical image classifier
+- **ConnectChat** — Real-time end-to-end encrypted messaging app
 
 ---
 
-### 💼 Experience
-**Harbor / SkillsBench** — Agent Benchmark Task Author (2025–Present)  
-Creating Docker-isolated evaluation tasks for frontier LLM agents.
+### 🌐 Open Source Contributions
+
+- **[Gale_IDM](https://github.com/AbdulGhaffarcs/Gale_IDM)** — Built an open-source multi-connection download manager for Linux with pause/resume, browser integration, and automatic updates
+- **Harbor / SkillsBench** — Contributor designing Docker-isolated evaluation tasks for frontier LLM agents
+
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulghaffarcs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abghaffar360@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulGhaffarcs)
 
 ---
 
-**Open to remote Full-Stack / AI Engineer roles** and interesting freelance projects.
-
-Always building •
+⭐️ From [AbdulGhaffarcs](https://github.com/AbdulGhaffarcs)
