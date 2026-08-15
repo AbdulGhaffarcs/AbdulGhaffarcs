@@ -31,7 +31,7 @@ Computer Science student focused on building intelligent systems, LLM applicatio
 ### 📌 Featured Projects
 
 - **[Gale_IDM](https://github.com/AbdulGhaffarcs/Gale_IDM)** — Open-source IDM-style download manager for Linux (Electron)
-- **[NIARAD](https://github.com/AbdulGhaffarcs/Kryptos-Niarad)** — Offline AI study assistant with RAG + multi-agent architecture
+- **[NIARAD](https://github.com/AbdulGhaffarcs/niarad_agent)** — Offline AI study assistant with RAG + multi-agent architecture
 - **[Chest Disease Detection](https://github.com/shoaibahmedcs/xvision)** — ResNet-50 based medical image classifier
 - **[ConnectChat](https://github.com/AbdulGhaffarcs/connectChat)** — Real-time end-to-end encrypted messaging app
 
