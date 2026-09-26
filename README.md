@@ -57,15 +57,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulGhaffarcs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGhaffarcs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
-</div>
-
----
-
 <div align="center">
 
 ⭐️ From [AbdulGhaffarcs](https://github.com/AbdulGhaffarcs)
