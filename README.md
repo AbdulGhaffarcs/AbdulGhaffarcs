@@ -2,14 +2,6 @@
 
 <p><code>abdulghaffarcs@github ~ $ ./maintainer.sh</code></p>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="ABDUL GHAFFAR animated maintainer system scan" />
-</picture>
-</p>
-</div>
-
 <h2>Why I build in public</h2>
 
 <table width="100%">
@@ -26,13 +18,6 @@
 
 <p><code>abdulghaffarcs@github ~ $ toolbox --list</code></p>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="ABDUL GHAFFAR open-source technology toolbox" />
-</picture>
-</p>
-
 <table width="100%">
 <tr>
 <td width="17%" align="center"><strong>Python</strong><br /><sub>31%</sub></td>
@@ -46,39 +31,22 @@
 
 <h2>Repositories worth exploring</h2>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&repos=abdulghaffarcs%2FGale_IDM%2Cabdulghaffarcs%2Fsibatt%2Cabdulghaffarcs%2Fxvision%2Cabdulghaffarcs%2Fniarad_agent%2Cabdulghaffarcs%2FconnectChat&v=oss-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&repos=abdulghaffarcs%2FGale_IDM%2Cabdulghaffarcs%2Fsibatt%2Cabdulghaffarcs%2Fxvision%2Cabdulghaffarcs%2Fniarad_agent%2Cabdulghaffarcs%2FconnectChat&v=oss-projects-1&mode=dark" width="860" alt="ABDUL GHAFFAR maintainer repositories" />
-</picture>
-</p>
-
 <table width="100%">
 <tr>
-<td width="25%" valign="top"><h3><a href="https://github.com/AbdulGhaffarcs/sibatt">sibatt</a></h3><p>From now on you don't have to download timetable every week and find your classes across 90 pages.</p><p><sub>Python · ⭐ 14</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/AbdulGhaffarcs/sibatt">sibatt</a></h3><p>From now on you don't have to download timetable every week and find your classes across 90 pages.</p><p><sub>JavaScript · ⭐ 12</sub></p></td>
 <td width="25%" valign="top"><h3><a href="https://github.com/shoaibahmedcs/xvision">xvision</a></h3><p>Chest Disease Detection System.</p><p><sub>JavaScript · ⭐ 2</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/AbdulGhaffarcs/niarad_agent">niarad_agent</a></h3><p>RAG-powered AI study assistant with SM-2 spaced repetition and multi-tool agents.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/AbdulGhaffarcs/niarad_agent">niarad_agent</a></h3><p>RAG-powered AI study assistant with SM-2 spaced repetition and multi-tool agents.</p><p><sub>Python · ⭐ 9</sub></p></td>
 <td width="25%" valign="top"><h3><a href="https://github.com/AbdulGhaffarcs/connectChat">connectChat</a></h3><p>A public project looking for its next contributor.</p><p><sub>JavaScript · ⭐ 4</sub></p></td>
 </tr>
 </table>
 
 <h2>Contribution activity</h2>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="ABDUL GHAFFAR open-source signal" />
-</picture>
-</p>
+<p>GitHub activity, project contributions, and collaborative work across AI, web, and system projects.</p>
 
 <h2>Contribution trail</h2>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="ABDUL GHAFFAR contribution trail" />
-</picture>
-</p>
+<p>Tracking consistent development across open-source builds, experiments, and product-focused engineering work.</p>
 
 <hr />
 
@@ -86,19 +54,16 @@
 
 <p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
 
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fabdulghaffarcs&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fabdulghaffarcs&mode=dark" width="100%" alt="ABDUL GHAFFAR community links" />
-</picture></p>
 <p align="center"><a href="https://github.com/abdulghaffarcs">GitHub</a> &nbsp;·&nbsp; <a href="https://abdulghaffarcs.vercel.app/">Website</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/abdulghaffarcs">LinkedIn</a></p>
-<p align="center"><sub>ABDUL GHAFFAR · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
 ## Experience
 
 <table>
-<tr><td width="34%" valign="top"><b>Terminal Bench (Parsewave) — Benchmark Engnieer, Contract based</b><br /><sub>March 2026 – Present</sub></td><td width="66%" valign="top"><ul><li>Designed and shipped Docker-isolated evaluation tasks for frontier LLM coding agents; accepted tasks spanned computer vision (synthetic topographic contour analysis), computational geometry (structural steel cross-sectio</li><li>Built deterministic test harnesses using pytest, reproducible container environments, and tamper-resistant scoring, with each task reviewed against strict acceptance criteria for correctness and reproducibility.</li></ul></td></tr>
+<tr><td width="34%" valign="top"><b>Terminal Bench (Parsewave) — Benchmark Engnieer, Contract based</b><br /><sub>March 2026 – Present</sub></td><td width="66%" valign="top"><ul><li>Designed and shipped benchmark infrastructure and evaluation tooling for LLM/agent tasks.</li><li>Worked on reliability, scoring, and benchmarking workflows for developer-facing AI systems.</li></ul></td></tr>
 </table>
 
 <b>Education</b>
 
 - Bachelor of Science in Computer Science; Focus: AI/ML, Algorithms, Software Engineering — Sukkur IBA University
+
+</div>
