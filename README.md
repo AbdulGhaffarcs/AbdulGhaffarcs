@@ -1,64 +1,104 @@
 <div align="center">
 
-# Hi, I'm Abdul Ghaffar 👋
+<p><code>abdulghaffarcs@github ~ $ ./maintainer.sh</code></p>
 
-**Full-Stack AI Engineer** · Computer Science student · Builder of practical tools
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdulghaffarcs.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulghaffarcs.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulghaffarcs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulghaffarcs)
-[![Email](https://img.shields.io/badge/Email-abghaffar360%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abghaffar360@gmail.com)
-
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="ABDUL GHAFFAR animated maintainer system scan" />
+</picture>
+</p>
 </div>
 
----
+<h2>Why I build in public</h2>
 
-### 🚀 About Me
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>NIARAD — AI Study Agent</code> · <code>XVision — Chest Disease Detection</code> · <code>ConnectChat — End-to-End Encrypted Messaging</code></p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>22 public repositories · 29 stars</p></td>
+<td width="33%" valign="top"><h3>Contribution</h3><p>520 contributions · 120 active days</p></td>
+</tr>
+</table>
 
-- 🔭 Building **AI agents**, **RAG systems**, and **production full-stack apps**
-- 🌱 Deepening **system design**, **LLM optimization**, and **edge/local AI**
-- 💡 Recent focus: tools that solve real campus & daily problems (timetables, downloads, study assistants)
-- 💼 Open to remote internships, freelance, and open-source collaboration
-- ⚡ Fun fact: train models by day, ship useful software by night
+<p>Full-Stack AI Engineer</p>
 
----
+<h2>Open-source toolbox</h2>
 
-### 🛠️ Tech Stack
+<p><code>abdulghaffarcs@github ~ $ toolbox --list</code></p>
 
-**AI / Machine Learning**  
-`Python` `PyTorch` `TensorFlow` `RAG` `LLMs` `Ollama` `LangChain` `Computer Vision` `Prompt Engineering`
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="ABDUL GHAFFAR open-source technology toolbox" />
+</picture>
+</p>
 
-**Frontend & Full-Stack**  
-`TypeScript` `Next.js` `React` `Tailwind CSS` `Node.js` `Express` `Electron`
+<table width="100%">
+<tr>
+<td width="17%" align="center"><strong>Python</strong><br /><sub>31%</sub></td>
+<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>25%</sub></td>
+<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>16%</sub></td>
+<td width="17%" align="center"><strong>CSS</strong><br /><sub>7%</sub></td>
+<td width="17%" align="center"><strong>HTML</strong><br /><sub>7%</sub></td>
+<td width="17%" align="center"><strong>Dart</strong><br /><sub>6%</sub></td>
+</tr>
+</table>
 
-**Backend & Data**  
-`FastAPI` `SQLite` `REST APIs` `Supabase` `sql.js`
+<h2>Repositories worth exploring</h2>
 
-**Tools & DevOps**  
-`Docker` `Git` `GitHub Actions` `pytest` `Vitest` `Vercel`
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&repos=abdulghaffarcs%2FGale_IDM%2Cabdulghaffarcs%2Fsibatt%2Cabdulghaffarcs%2Fxvision%2Cabdulghaffarcs%2Fniarad_agent%2Cabdulghaffarcs%2FconnectChat&v=oss-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&repos=abdulghaffarcs%2FGale_IDM%2Cabdulghaffarcs%2Fsibatt%2Cabdulghaffarcs%2Fxvision%2Cabdulghaffarcs%2Fniarad_agent%2Cabdulghaffarcs%2FconnectChat&v=oss-projects-1&mode=dark" width="860" alt="ABDUL GHAFFAR maintainer repositories" />
+</picture>
+</p>
 
----
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><h3><a href="https://github.com/AbdulGhaffarcs/sibatt">sibatt</a></h3><p>From now on you don't have to download timetable every week and find your classes across 90 pages.</p><p><sub>Python · ⭐ 14</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/shoaibahmedcs/xvision">xvision</a></h3><p>Chest Disease Detection System.</p><p><sub>JavaScript · ⭐ 2</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/AbdulGhaffarcs/niarad_agent">niarad_agent</a></h3><p>RAG-powered AI study assistant with SM-2 spaced repetition and multi-tool agents.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/AbdulGhaffarcs/connectChat">connectChat</a></h3><p>A public project looking for its next contributor.</p><p><sub>JavaScript · ⭐ 4</sub></p></td>
+</tr>
+</table>
 
-### 📌 Featured Projects
+<h2>Contribution activity</h2>
 
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| **[sibatt](https://github.com/AbdulGhaffarcs/sibatt)** | Modern timetable search for Sukkur IBA — filter by section, course, or room. No more hunting through 90-page PDFs. | Python · FastAPI · Next.js · sql.js | [Live](https://sibatt.vercel.app) · [Repo](https://github.com/AbdulGhaffarcs/sibatt) |
-| **[Gale_IDM](https://github.com/AbdulGhaffarcs/Gale_IDM)** | Open-source IDM-style download manager for Linux — segmented downloads, pause/resume, browser extension, auto-updates. | Electron · JavaScript | [Repo](https://github.com/AbdulGhaffarcs/Gale_IDM) |
-| **[NIARAD](https://github.com/AbdulGhaffarcs/niarad_agent)** | RAG-powered AI study assistant with SM-2 spaced repetition and multi-tool agents. | Python · RAG · LLMs | [Live](https://niarad-agent.vercel.app) · [Repo](https://github.com/AbdulGhaffarcs/niarad_agent) |
-| **[ConnectChat](https://github.com/AbdulGhaffarcs/connectChat)** | Real-time end-to-end encrypted messaging app. | JavaScript · WebSockets | [Live](https://connectChat07.vercel.app) · [Repo](https://github.com/AbdulGhaffarcs/connectChat) |
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="ABDUL GHAFFAR open-source signal" />
+</picture>
+</p>
 
----
+<h2>Contribution trail</h2>
 
-### 🌐 Open Source & Contributions
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&v=oss-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="ABDUL GHAFFAR contribution trail" />
+</picture>
+</p>
 
-- **[Gale_IDM](https://github.com/AbdulGhaffarcs/Gale_IDM)** — Built a multi-connection download manager for Linux with pause/resume, clipboard detection, browser integration, and automatic updates
-- **[sibatt](https://github.com/AbdulGhaffarcs/sibatt)** — PDF timetable extraction + offline-capable search engine used by students
-- **Harbor / SkillsBench** — Designing Docker-isolated evaluation tasks for frontier LLM agents
+<hr />
 
----
+<h2>Contribute together</h2>
 
-<div align="center">
+<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
 
-⭐️ From [AbdulGhaffarcs](https://github.com/AbdulGhaffarcs)
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fabdulghaffarcs&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff13%26v%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fabdulghaffarcs&mode=dark" width="100%" alt="ABDUL GHAFFAR community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/abdulghaffarcs">GitHub</a> &nbsp;·&nbsp; <a href="https://abdulghaffarcs.vercel.app/">Website</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/abdulghaffarcs">LinkedIn</a></p>
+<p align="center"><sub>ABDUL GHAFFAR · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
-</div>
+## Experience
+
+<table>
+<tr><td width="34%" valign="top"><b>Terminal Bench (Parsewave) — Benchmark Engnieer, Contract based</b><br /><sub>March 2026 – Present</sub></td><td width="66%" valign="top"><ul><li>Designed and shipped Docker-isolated evaluation tasks for frontier LLM coding agents; accepted tasks spanned computer vision (synthetic topographic contour analysis), computational geometry (structural steel cross-sectio</li><li>Built deterministic test harnesses using pytest, reproducible container environments, and tamper-resistant scoring, with each task reviewed against strict acceptance criteria for correctness and reproducibility.</li></ul></td></tr>
+</table>
+
+<b>Education</b>
+
+- Bachelor of Science in Computer Science; Focus: AI/ML, Algorithms, Software Engineering — Sukkur IBA University
