@@ -1,14 +1,4 @@
-<div align="center">
 
-<p><code>abdulghaffarcs@github ~ $ ./maintainer.sh</code></p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff5f8655d1ed6a2a8af4fd1267d%26v%3D4" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=abdulghaffarcs&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52318994%3Fu%3D4b0d82b343153d78029860e402ec7dd83527ff5f8655d1ed6a2a8af4fd1267d%26v%3D4" />
-</picture>
-</p>
-</div>
 
 <h2>Why I build in public</h2>
 
