@@ -5,9 +5,8 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top"><h3>Focus</h3><p><code>NIARAD — AI Study Agent</code> · <code>XVision — Chest Disease Detection</code> · <code>ConnectChat — End-to-End Encrypted Messaging</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>22 public repositories · 29 stars</p></td>
-<td width="33%" valign="top"><h3>Contribution</h3><p>520 contributions · 120 active days</p></td>
 </tr>
+  
 </table>
 
 <p>Full-Stack AI Engineer</p>
